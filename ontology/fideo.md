@@ -12,6 +12,9 @@ contact:
   orcid: 0000-0001-9921-8234
 products:
   - id: fideo.owl
+publications:
+  - id: http://ceur-ws.org/Vol-2807/paperL.pdf
+    title: "FIDEO: Food Interactions with Drugs Evidence Ontology"
 license:
   url: https://creativecommons.org/publicdomain/zero/1.0/
   label: CC0 1.0
