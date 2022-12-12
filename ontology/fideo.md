@@ -14,6 +14,11 @@ license:
   label: CC0 1.0
   url: https://creativecommons.org/publicdomain/zero/1.0/
 preferredPrefix: FIDEO
+usages:
+- description: Visualizing food-drug interactions in the Thériaque database (2021)
+  url: https://hal.archives-ouvertes.fr/hal-03185958
+- description: OBO Foundry Food Ontology Interconnectivity
+  url: https://ceur-ws.org/Vol-2969/paper13-IFOW.pdf
 products:
 - id: fideo.owl
 repository: https://gitub.u-bordeaux.fr/erias/fideo
