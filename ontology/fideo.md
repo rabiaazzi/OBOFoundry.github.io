@@ -18,6 +18,14 @@ products:
 - id: fideo.owl
 repository: https://gitub.u-bordeaux.fr/erias/fideo
 tracker: https://gitub.u-bordeaux.fr/erias/fideo/issues
+usages:
+  - description: Visualizing food-drug interactions in the Thériaque database (2021)
+    user: https://hal.science/hal-03185958
+  - description:  OBO Foundry Food Ontology Interconnectivity (2021).
+    user: https://ceur-ws.org/Vol-2969/paper13-IFOW.pdf
+  - description: Assessing Health in a Digitalizing Real-World Setting Pharmacoepi & beyond, Bordeaux Population Health reserch center
+    user: https://www.bordeaux-population-health.center/the-teams/ahead/
+    
 activity_status: active
 ---
 
